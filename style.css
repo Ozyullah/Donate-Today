@@ -15,7 +15,7 @@ h3{
 }
 .text-design{
     text-align: center;
-    padding-top: 30%;
+    padding-top: 10%;
     color:white
 }
 .link-design{
@@ -25,6 +25,34 @@ h3{
     padding:10px;
     border-radius: 10px;
 }
+.gap-added{
+    margin: 10%;
+}
+.input{
+    border: none;
+    text-decoration: underline;
+    text-decoration: ce;
+}
 .text-plan{
     text-align: center;
+    text-align: justify;
+}
+.div-item{
+    display: flex;
+    margin:0%;
+    border-left: 5%;
+}
+.div-area{
+    padding: 20px;
+    width: 20%;
+    margin-left: 2%;
+}
+#div-1{
+    background-color: rgba(136, 79, 189, 0.5);
+}
+#div-2{
+    background-color: rgba(76, 40, 136, 0.795);
+}
+#div-3{
+    background-color: rgba(22, 199, 199, 0.562);
 }
