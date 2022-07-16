@@ -31,21 +31,20 @@ h3{
 .input{
     border: none;
     text-decoration: underline;
-    text-decoration: ce;
 }
 .text-plan{
     text-align: center;
-    text-align: justify;
 }
 .div-item{
     display: flex;
-    margin:0%;
+    margin: ;
     border-left: 5%;
 }
 .div-area{
-    padding: 20px;
-    width: 20%;
-    margin-left: 2%;
+   width: 80%;
+   margin: 2%;
+   padding: 20px;
+   margin-bottom: 10%;
 }
 #div-1{
     background-color: rgba(136, 79, 189, 0.5);
@@ -55,4 +54,7 @@ h3{
 }
 #div-3{
     background-color: rgba(22, 199, 199, 0.562);
+}
+.image-size{
+    image-resolution: 20%;
 }
