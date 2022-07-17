@@ -58,3 +58,9 @@ h3{
 .image-size{
     image-resolution: 20%;
 }
+.added-footer{
+    background-color: black;
+    text-align: center;
+    color: white;
+    background-size: cover;
+}
