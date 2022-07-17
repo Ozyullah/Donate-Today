@@ -12,6 +12,7 @@ h3{
     background-position: center ;
     background-size: cover;
     position: relative;
+    
 }
 .text-design{
     text-align: center;
@@ -28,13 +29,16 @@ h3{
 .gap-added{
     margin: 10%;
 }
+.simple-list{
+    padding: 5px;
+}
 .input{
     border: none;
     text-decoration: underline;
 }
 .text-plan{
     text-align: center;
-    margin: 20%;
+    margin: 10%;
 }
 .div-item{
     display: flex;
@@ -65,7 +69,8 @@ h3{
 }
 .update-form{
     background-color: powderblue;
-    padding: 15%;
+    padding: 10%;
+    margin: 10%;
     
 }
 .added-footer{
